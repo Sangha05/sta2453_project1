@@ -17,9 +17,22 @@ something beyond this
 Week2:13rd-19th
 1. define performance
 2. train some models
-3. Write analysis
+
+
+Tony:
+1. Define performance
+(Take the max acceleration for each game for each player, take the average for each day for each player)
+(Join with game)
+
+Sanghamesh:
+1. join Wellness and Training load
+2. Explore models
+
 
 Week3:19-26
 1. PPT
 2. Prepare for presentation
 LIME interpretability
+
+Week4:19-26
+
