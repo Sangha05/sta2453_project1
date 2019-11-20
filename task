@@ -30,9 +30,24 @@ Sanghamesh:
 
 
 Week3:19-26
-1. PPT
-2. Prepare for presentation
-LIME interpretability
+Tony:
+1. Create two new csv files, and upload to working space(finish by 11.21 st)
+2. take the average of max performance for each game, as the performance for that day
+3. Logistic regression
+4. Decision Tree(regression tree)
+5. Think about what to present
+
+Sanghamesh:
+1. Create one csv for wellness
+2. Fit XGBoost
+3. Linear regression
+4. random forest
+5. Think about what to present
+(slides) 
+weilixiang0619@gmail.com
+
+Next week:
+Meet on Tuesday 26th
 
 Week4:19-26
 
