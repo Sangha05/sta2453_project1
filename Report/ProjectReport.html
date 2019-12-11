@@ -13577,6 +13577,7 @@ However, factor analysis does not work well. When we plot the new factors compar
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p>(<b>Notebook</b>: <a href="https://nbviewer.jupyter.org/github/weilixiang/sta2453_project1/blob/master/Model_Selection.ipynb">Model_Selection</a>, <b>Data:</b> <a href="https://github.com/weilixiang/sta2453_project1/blob/master/merged_data.csv">merged_data</a>)</p>
 <h3 id="Model-Selection">Model Selection<a class="anchor-link" href="#Model-Selection">&#182;</a></h3><p>The typical regression model assumes all rows should be independent. However, in our data set, we have multiple observations (rows) for each player. These rows are dependent. We should not use typical linear regression here.</p>
 <p>Linear mixed models are an extension of simple linear models to allow both fixed and random effects, and are particularly used when there is non independence in the data, such as arises from a hierarchical structure.</p>
 <p>When there are multiple levels, such as performances on different date from same player, the variability in the outcome can be thought of as being either within group or between group. Performance level observations are not independent, as within a given player performance are more similar.</p>
